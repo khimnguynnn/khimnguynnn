@@ -12,6 +12,7 @@
 [![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)]()
 [![](https://img.shields.io/badge/-Flask-000?&logo=Flask)]()
 [![](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)]()
+[![](https://img.shields.io/badge/-Linux-000?&logo=linux)]()
 ### Other
 
 [![](https://img.shields.io/badge/-HTML-000?&logo=html5)]()
