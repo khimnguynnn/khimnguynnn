@@ -4,8 +4,6 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]()
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]()
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)]()
-[![](https://img.shields.io/badge/-Dart-000?&logo=Dart)]()
 ### Technologies
 
 [![](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)]()
